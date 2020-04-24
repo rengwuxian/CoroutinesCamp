@@ -50,4 +50,8 @@ dependencies {
   implementation 'io.reactivex.rxjava3:rxjava:3.0.2'
   implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
   implementation 'com.github.akarnokd:rxjava3-retrofit-adapter:3.0.0'
+  implementation 'androidx.activity:activity-ktx:1.1.0'
+  implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.2.0'
+  implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.2.0'
+  implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
 }
